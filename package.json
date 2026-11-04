@@ -1,7 +1,24 @@
 {
-  "dependencies": {
-    "@tailwindcss/postcss": "^4.3.4",
-    "postcss": "^8.5.32",
+  "name": "pacrtice-with-tailwind-css",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tajun3528/practice_teilween_CSS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/tajun3528/practice_teilween_CSS/issues"
+  },
+  "homepage": "https://github.com/tajun3528/practice_teilween_CSS#readme",
+  "devDependencies": {
     "tailwindcss": "^4.3.4"
   }
 }
